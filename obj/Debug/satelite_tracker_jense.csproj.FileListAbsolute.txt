@@ -1,0 +1,10 @@
+C:\Users\natha\source\repos\satelite_tracker_jense\bin\Debug\satelite_tracker_jense.exe.config
+C:\Users\natha\source\repos\satelite_tracker_jense\bin\Debug\satelite_tracker_jense.exe
+C:\Users\natha\source\repos\satelite_tracker_jense\bin\Debug\satelite_tracker_jense.pdb
+C:\Users\natha\source\repos\satelite_tracker_jense\obj\Debug\satelite_tracker_jense.csproj.AssemblyReference.cache
+C:\Users\natha\source\repos\satelite_tracker_jense\obj\Debug\satelite_tracker_jense.Form1.resources
+C:\Users\natha\source\repos\satelite_tracker_jense\obj\Debug\satelite_tracker_jense.Properties.Resources.resources
+C:\Users\natha\source\repos\satelite_tracker_jense\obj\Debug\satelite_tracker_jense.csproj.GenerateResource.cache
+C:\Users\natha\source\repos\satelite_tracker_jense\obj\Debug\satelite_tracker_jense.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\satelite_tracker_jense\obj\Debug\satelite_tracker_jense.exe
+C:\Users\natha\source\repos\satelite_tracker_jense\obj\Debug\satelite_tracker_jense.pdb
